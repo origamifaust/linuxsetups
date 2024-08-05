@@ -1,2 +1,3 @@
-# linuxsetups
-Linux Setup after install/Scripts/Settings etc.
+# linux setups
+Personal Linux Distro Setup
+<hr>
