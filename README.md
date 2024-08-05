@@ -1,3 +1,5 @@
 # linux setups
 Personal Linux Distro Setup
-<hr>
+- Theme
+  - arc-theme `Darkest`
+- Dash to Dock
